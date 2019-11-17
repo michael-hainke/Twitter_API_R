@@ -1,5 +1,0 @@
-consumer_key <- "DMU2xVQNIThOUd0GTz5qJm4pZ"
-consumer_secret <- "ASbECIo9CiATYcNDHtTJHK3dJM2QUZmLZKy3paPsIjBtNzDfvd"
-access_token <- "290294074-fuhYdgxoSyHDyJHJ4ym1J1SwRM7e16VDeeVAaRHB"
-access_secret <- "e0UdQWovv6WL4GRW8hrJvuEkE4pXn3vbLoJ85MGwKw4TB"
-appname = 'Tweet_NLP_Classification'
